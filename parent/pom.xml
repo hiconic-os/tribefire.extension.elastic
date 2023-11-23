@@ -37,7 +37,7 @@ You should have received a copy of the GNU Lesser General Public License along w
         <V.com.vividsolutions>1.13</V.com.vividsolutions>
         <V.commons-io>2.5</V.commons-io>
         <V.io.netty>4.1.22.Final</V.io.netty>
-        <V.javax.servlet>3.0.1</V.javax.servlet>
+        <V.javax.servlet>3.1.0</V.javax.servlet>
         <V.joda-time>2.9.5</V.joda-time>
         <V.net.java.dev.jna>4.4.0</V.net.java.dev.jna>
         <V.net.sf.jopt-simple>5.0.2</V.net.sf.jopt-simple>
